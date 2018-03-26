@@ -49,31 +49,12 @@ justpay
 |justpay-pay-ali-service|9091|支付宝服务提供者、配置服务消费者|justpay-pay-ali-interface、justpay-config-interface、justpay-common
 |justpay-pay-wechat-service|9092|微信服务提供者、配置服务消费者|justpay-pay-wechat-interface、justpay-config-interface、justpay-common
 |justpay-dispatcher-service|9093|Justpay服务提供者、支付服务消费者|justpay-dispatcher-interface、justpay-pay-ali-interface、justpay-pay-wechat-interface、justpay-common
+
+
 项目启动顺序：
 ```
 justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-service
 ```
-
-### 快速启动
----
-1. 修改配置服务中的支付宝/微信配置文件  
-![](https://i.imgur.com/7TqAARJ.png)![](https://i.imgur.com/5iD3EEK.png)
-2. 修改启动项目中的zookeeper地址（这里使用的是dev配置，对于配置的切换请参考spring-boot文档）  
-![](https://i.imgur.com/GBiDaiZ.png)![](https://i.imgur.com/oRchUgF.png)![](https://i.imgur.com/C0IQ5ja.png)
-3. 启动项目（justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-service；推荐使用debug启动）  
-![](https://i.imgur.com/2Y9mEt9.png)![](https://i.imgur.com/esHvUBV.png)![](https://i.imgur.com/hNRiDQd.png)
-4. 接入（Dubbox、HTTP）
-	- Dubbox : 将功能分发层中的接口复制到业务逻辑模块，通过Dubbox调用即可  
-	  ![](https://i.imgur.com/R5DZIro.png)
-	- HTTP : 将请求发送到分发层的controller中（controller除了包含正常的下单、回调、查询、退款；还包含spring-webflux写出支付宝支付页面、微信支付二维码的展示代码）
-	  ![](https://i.imgur.com/zIDQzYJ.png)
-
-
-#### 测试用例
----
-- 在justpay-dispatcher-service的test里面有所有操作的测试用例，可以直接设置参数进行测试![](https://i.imgur.com/qRSfRJa.png)
-- 也可以通过HTTP请求controller进行测试
-
 
 ### API列表
 ---
@@ -182,3 +163,27 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 |返回信息|return_msg|否|退款失败|返回信息，如非空，为错误原因
 |错误信息描述|err_code_des|否|交易不存在|错误描述，如非空，为错误描述
 |退款数据|refundData|否|json数据|从平台中查到的数据;属性已经解析出来了，若要拿到原生请求信息，从xmlString(微信)/body(支付宝)中获取
+
+
+
+### 快速启动
+---
+1. 修改配置服务中的支付宝/微信配置文件  
+![](https://i.imgur.com/7TqAARJ.png)![](https://i.imgur.com/5iD3EEK.png)
+2. 修改启动项目中的zookeeper地址（这里使用的是dev配置，对于配置的切换请参考spring-boot文档）  
+![](https://i.imgur.com/GBiDaiZ.png)![](https://i.imgur.com/oRchUgF.png)![](https://i.imgur.com/C0IQ5ja.png)
+3. 启动项目（justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-service；推荐使用debug启动）  
+![](https://i.imgur.com/2Y9mEt9.png)![](https://i.imgur.com/esHvUBV.png)![](https://i.imgur.com/hNRiDQd.png)
+4. 接入（Dubbox、HTTP）
+	- Dubbox : 将功能分发层中的接口复制到业务逻辑模块，通过Dubbox调用即可  
+	  ![](https://i.imgur.com/R5DZIro.png)
+	- HTTP : 将请求发送到分发层的controller中（controller除了包含正常的下单、回调、查询、退款；还包含spring-webflux写出支付宝支付页面、微信支付二维码的展示代码）
+	  ![](https://i.imgur.com/zIDQzYJ.png)
+
+
+#### 测试用例
+---
+- 在justpay-dispatcher-service的test里面有所有操作的测试用例，可以直接设置参数进行测试![](https://i.imgur.com/qRSfRJa.png)
+- 也可以通过HTTP请求controller进行测试
+
+
