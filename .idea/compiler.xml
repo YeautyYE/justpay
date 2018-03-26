@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="justpay-common" />
+        <module name="justpay-dispatcher-interface" />
+        <module name="justpay-dispatcher-service" />
+        <module name="justpay-pay-ali-interface" />
+        <module name="justpay-pay-ali-pojo" />
+        <module name="justpay-pay-ali-service" />
+        <module name="justpay-pay-wechat-interface" />
+        <module name="justpay-pay-wechat-pojo" />
+        <module name="justpay-pay-wechat-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="justpay" target="1.8" />
+      <module name="justpay-common" target="1.8" />
+      <module name="justpay-config" target="1.8" />
+      <module name="justpay-config-interface" target="1.8" />
+      <module name="justpay-config-pojo" target="1.8" />
+      <module name="justpay-config-service" target="1.8" />
+      <module name="justpay-dispatcher" target="1.8" />
+      <module name="justpay-dispatcher-interface" target="1.8" />
+      <module name="justpay-dispatcher-service" target="1.8" />
+      <module name="justpay-pay" target="1.8" />
+      <module name="justpay-pay-ali" target="1.8" />
+      <module name="justpay-pay-ali-interface" target="1.8" />
+      <module name="justpay-pay-ali-pojo" target="1.8" />
+      <module name="justpay-pay-ali-service" target="1.8" />
+      <module name="justpay-pay-wechat" target="1.8" />
+      <module name="justpay-pay-wechat-interface" target="1.8" />
+      <module name="justpay-pay-wechat-pojo" target="1.8" />
+      <module name="justpay-pay-wechat-service" target="1.8" />
+      <module name="justpay-service-ali" target="1.8" />
+      <module name="justpay-service-ali-interface" target="1.8" />
+      <module name="justpay-service-ali-service" target="1.8" />
+      <module name="justpay-service-wechat" target="1.8" />
+      <module name="justpaydispatcherservice" target="1.8" />
+      <module name="justpaypay" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

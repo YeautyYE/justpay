@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/justpay.iml" filepath="$PROJECT_DIR$/justpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-common/justpay-common.iml" filepath="$PROJECT_DIR$/justpay-common/justpay-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher.iml" filepath="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-interface/justpay-dispatcher-interface.iml" filepath="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-interface/justpay-dispatcher-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/justpay-dispatcher-service.iml" filepath="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/justpay-dispatcher-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-pay/justpay-pay.iml" filepath="$PROJECT_DIR$/justpay-pay/justpay-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali.iml" filepath="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/justpay-pay-ali-interface.iml" filepath="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/justpay-pay-ali-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-pojo/justpay-pay-ali-pojo.iml" filepath="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-pojo/justpay-pay-ali-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/justpay-pay-ali-service.iml" filepath="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/justpay-pay-ali-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat.iml" filepath="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/justpay-pay-wechat-interface.iml" filepath="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/justpay-pay-wechat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-pojo/justpay-pay-wechat-pojo.iml" filepath="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-pojo/justpay-pay-wechat-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/justpay-pay-wechat-service.iml" filepath="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/justpay-pay-wechat-service.iml" />
+    </modules>
+  </component>
+</project>

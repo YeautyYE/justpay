@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>justpay-pay-ali</artifactId>
+        <groupId>com.justpay</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>justpay-pay-ali-interface</artifactId>
+    <packaging>jar</packaging>
+
+    <dependencies>
+        <!--ali_pay-->
+        <dependency>
+            <groupId>com.alipay</groupId>
+            <artifactId>sdk</artifactId>
+            <version>1.5</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/src/main/webapp/WEB-INF/lib/alipay-sdk-java20170829142630.jar</systemPath>
+        </dependency>
+
+    </dependencies>
+
+
+</project>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+	<!-- 文件输出格式 -->
+	<property name="PATTERN" value="%-12(%d{yyyy-MM-dd HH:mm:ss.SSS}) |-%-5level [%thread] %c [%L] -| %msg%n" />
+	<!-- 文件输出格式 -->
+	<property name="MYPATTERN" value="|- %c [%L] -| %msg%n" />
+	
+	<!-- test文件路径 -->
+	<property name="TEST_FILE_PATH" value="F:/temp/log" />
+	<!-- pro文件路径 -->
+	<property name="PRO_FILE_PATH" value="./log" />
+
+	<!-- 开发环境 -->
+	<springProfile name="dev">
+		<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+			<encoder>
+				<pattern>${MYPATTERN}</pattern>
+			</encoder>
+		</appender>
+		
+		<logger name="com.yuncaijing" level="debug"/>
+
+		<root level="debug">
+			<appender-ref ref="CONSOLE" />
+		</root>
+	</springProfile>
+
+	<!-- 测试环境 -->
+	<springProfile name="test">
+		<!-- 每天产生一个文件 -->
+		<appender name="TEST-FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+			<!-- 文件路径 -->
+			<file>${TEST_FILE_PATH}</file>
+			<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+				<!-- 文件名称 -->
+				<fileNamePattern>${TEST_FILE_PATH}/info.%d{yyyy-MM-dd}.log</fileNamePattern>
+				<!-- 文件最大保存历史数量 -->
+				<MaxHistory>100</MaxHistory>
+			</rollingPolicy>
+			
+			<layout class="ch.qos.logback.classic.PatternLayout">
+				<pattern>${PATTERN}</pattern>
+			</layout>
+		</appender>
+		
+		<root level="info">
+			<appender-ref ref="TEST-FILE" />
+		</root>
+	</springProfile>
+
+	<!-- 生产环境 -->
+	<springProfile name="prod">
+		<appender name="PROD_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+			<!-- <file>${PRO_FILE_PATH}</file> -->
+			<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+				<fileNamePattern>${PRO_FILE_PATH}/info.%d{yyyy-MM-dd}.log</fileNamePattern>
+				<MaxHistory>100</MaxHistory>
+			</rollingPolicy>
+			<layout class="ch.qos.logback.classic.PatternLayout">
+				<pattern>${PATTERN}</pattern>
+			</layout>
+		</appender>
+		
+		<root level="info">
+			<appender-ref ref="PROD_FILE" />
+		</root>
+	</springProfile>
+</configuration>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-config/justpay-config-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-config/justpay-config-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-config/justpay-config-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-dispatcher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service" charset="UTF-8" />
+  </component>
+</project>

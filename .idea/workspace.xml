@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="941ce908-899a-47f7-a0f8-77c132a9f151" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-service-ali/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-dispatcher/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-config/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-common/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-service-wechat/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-config/justpay-config-interface/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-config/justpay-config-service/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-config/justpay-config-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-interface/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-service-ali/justpay-service-ali-interface/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-service-ali/justpay-service-ali-service/target/" />
+    <ignored path="$PROJECT_DIR$/justpaypay/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-pay/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-pojo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JustpayDispatcherTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/test/java/JustpayDispatcherTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-boot-starter-webflux-2.0.0.RELEASE.pom" pinned="false" current-in-tab="true">
+        <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-webflux/2.0.0.RELEASE/spring-boot-starter-webflux-2.0.0.RELEASE.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-57">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>yuncaijing</find>
+      <find>com.yeauty</find>
+      <find>alipayConfigService</find>
+      <find>JsonUtils.getValueFromField(params,</find>
+      <find>\&quot;)</find>
+      <find>*</find>
+      <find>&lt;groupId&gt;com.just&lt;/groupId&gt;</find>
+      <find>ResponseUtils.makeReturnMap(PayConstant.RETURN_VALUE_FAIL,</find>
+      <find>jackson</find>
+      <find>service</find>
+      <find>PAY_CHANNEL</find>
+      <find>WX</find>
+      <find>break;</find>
+      <find>case</find>
+      <find>:</find>
+      <find>WxConstant</find>
+      <find>调用微信支付失败(非业务错误)</find>
+      <find>code</find>
+      <find>model</find>
+      <find>(非业务错误)</find>
+      <find>微信</find>
+      <find>body</find>
+      <find>common</find>
+      <find>alipayConfig.get</find>
+      <find>()</find>
+      <find>QRCodeUtil</find>
+      <find>RequestDTO</find>
+      <find>refund</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>yeauty</replace>
+      <replace>com.just</replace>
+      <replace>wechatpayConfigService</replace>
+      <replace>esayParams.get(</replace>
+      <replace>&quot;)</replace>
+      <replace>//</replace>
+      <replace>&lt;groupId&gt;com.justpay&lt;/groupId&gt;</replace>
+      <replace>ResponseUtils.makeFailMap(</replace>
+      <replace>OPERATION_PAY</replace>
+      <replace>WECHAT</replace>
+      <replace>return reqDTO;</replace>
+      <replace>else if (reqDTO.getOperation().startsWith(</replace>
+      <replace>WechatConstant</replace>
+      <replace>)){</replace>
+      <replace>(非平台错误)</replace>
+      <replace>支付宝</replace>
+      <replace>QRCodeUtils</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/resources/application-test.properties" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/resources/application-prod.properties" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/resources/application-test.properties" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/src/main/java/com/justpay/service/AliConfigService.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/service/impl/AliConfigServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/service/impl/AliQueryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/configuration/WechatpayConfiguration.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/src/main/java/com/justpay/service/WechatConfigService.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/service/impl/WechatConfigServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/service/impl/WechatQueryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/service/impl/WechatNotifyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/configuration/AlipayConfiguration.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-common/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/service/impl/AliNotifyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/pojo/requestDTO.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/src/main/java/com/justpay/service/AliRefundService.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/service/impl/AliRefundServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/src/main/java/com/justpay/service/WechatRefundService.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/service/impl/WechatRefundServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/src/main/java/com/justpay/service/AlipayService.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/service/impl/AlipayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/src/main/java/com/justpay/service/WechatpayService.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/service/impl/WechatpayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/service/impl/DispatcherServiceImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/util/QRCodeUtil.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/util/QRCodeUtil.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/util/QRCodeUtil.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/NotifyController.java" />
+        <option value="$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/pojo/RequestDTO.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/TempController.java" />
+        <option value="$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/configuration/dubbo/serialization/SerializationOptimizerImpl.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/test/java/JustpayDispatcherTest.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/configuration/Swagger2Configuration.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/util/QRCodeUtils.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/QueryController.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/RefundController.java" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/PayController.java" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/resources/config/alipay.properties" />
+        <option value="$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/resources/config/wechatpay.properties" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="justpay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="justpay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="justpay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justpay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="justpay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justpay" type="462c0819:PsiDirectoryNode" />
+              <item name="justpay-dispatcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="justpay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justpay" type="462c0819:PsiDirectoryNode" />
+              <item name="justpay-dispatcher" type="462c0819:PsiDirectoryNode" />
+              <item name="justpay-dispatcher-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="justpay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justpay" type="462c0819:PsiDirectoryNode" />
+              <item name="justpay-dispatcher" type="462c0819:PsiDirectoryNode" />
+              <item name="justpay-dispatcher-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="justpay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justpay" type="462c0819:PsiDirectoryNode" />
+              <item name="justpay-dispatcher" type="462c0819:PsiDirectoryNode" />
+              <item name="justpay-dispatcher-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="justpay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justpay" type="462c0819:PsiDirectoryNode" />
+              <item name="justpay-dispatcher" type="462c0819:PsiDirectoryNode" />
+              <item name="justpay-dispatcher-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/configuration" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.justpay.controller" />
+      <recent name="com.justpay.pojo" />
+      <recent name="com.justpay.configuration" />
+      <recent name="com.justpay.configuration.dubbo" />
+      <recent name="com.justpay.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\IdeaProjects\justpay\justpay-dispatcher\justpay-dispatcher-service\src\main\java\com\justpay\util" />
+      <recent name="D:\develop\IdeaProjects\justpay\justpay-pay\justpay-pay-ali\justpay-pay-ali-service\src\main\java\com\justpay\util" />
+      <recent name="D:\develop\IdeaProjects\justpay\justpay-common\src\main\java\com\justpay\util" />
+      <recent name="D:\develop\IdeaProjects\justpay\justpay-pay\justpay-pay-wechat\justpay-pay-wechat-service\src\main\resources\config" />
+      <recent name="D:\develop\IdeaProjects\justpay\justpay-pay\justpay-pay-ali\justpay-pay-ali-service\src\main\resources\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.JustpayDispatcherTest.testAlipayNotify">
+    <configuration name="JavaTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="justpay-dispatcher-service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JavaTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="JustpayDispatcherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.justpay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.justpay.JustpayDispatcherApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="justpay-dispatcher-service" />
+      <envs />
+    </configuration>
+    <configuration name="JustpayDispatcherTest.testAlipayNotify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="justpay-dispatcher-service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JustpayDispatcherTest" />
+      <option name="METHOD_NAME" value="testAlipayNotify" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="JustpayDispatcherTest.testWechatNotify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="justpay-dispatcher-service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JustpayDispatcherTest" />
+      <option name="METHOD_NAME" value="testWechatNotify" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="JustpayPayAliApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.justpay.JustpayPayAliApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="justpay-pay-ali-service" />
+      <envs />
+    </configuration>
+    <configuration name="JustpayPayWechatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.justpay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.justpay.JustpayPayWechatApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="justpay-pay-wechat-service" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.JustpayPayAliApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.JustpayDispatcherApplication" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.JavaTest.test" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.JustpayPayWechatApplication" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.JustpayDispatcherTest.testAlipayNotify" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.JustpayDispatcherTest.testWechatNotify" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.JustpayDispatcherApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.JustpayPayWechatApplication" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.JustpayDispatcherTest.testAlipayNotify" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.JustpayDispatcherTest.testWechatNotify" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.JavaTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="941ce908-899a-47f7-a0f8-77c132a9f151" name="Default" comment="" />
+      <created>1504858508601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504858508601</updated>
+      <workItem from="1504858511479" duration="3676000" />
+      <workItem from="1504866160729" duration="15445000" />
+      <workItem from="1505111318896" duration="13391000" />
+      <workItem from="1505127742223" duration="5516000" />
+      <workItem from="1505180628514" duration="42210000" />
+      <workItem from="1505884101627" duration="1893000" />
+      <workItem from="1505887600836" duration="5821000" />
+      <workItem from="1505906685672" duration="1442000" />
+      <workItem from="1505973489919" duration="8132000" />
+      <workItem from="1506428901593" duration="156000" />
+      <workItem from="1506565037596" duration="30000" />
+      <workItem from="1521876133498" duration="19744000" />
+      <workItem from="1522049957337" duration="202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JavaTest_test - 2017.09.12 at 15h 10m 57s.xml">
+      <configuration name="JavaTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaTest_test - 2017.09.12 at 15h 16m 24s.xml">
+      <configuration name="JavaTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaTest_test - 2017.09.12 at 15h 16m 51s.xml">
+      <configuration name="JavaTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaTest_test - 2017.09.12 at 15h 18m 06s.xml">
+      <configuration name="JavaTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaTest_test - 2017.09.12 at 15h 18m 29s.xml">
+      <configuration name="JavaTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JustpayDispatcherTest_testAlipayNotify - 2017.09.20 at 13h 37m 50s.xml">
+      <configuration name="JustpayDispatcherTest.testAlipayNotify" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JustpayDispatcherTest_testAlipayNotify - 2017.09.20 at 13h 43m 10s.xml">
+      <configuration name="JustpayDispatcherTest.testAlipayNotify" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JustpayDispatcherTest_testWechatNotify - 2017.09.20 at 13h 39m 11s.xml">
+      <configuration name="JustpayDispatcherTest.testWechatNotify" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JustpayDispatcherTest_testWechatNotify - 2017.09.20 at 13h 41m 20s.xml">
+      <configuration name="JustpayDispatcherTest.testWechatNotify" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JustpayDispatcherTest_testWechatNotify - 2017.09.20 at 13h 42m 18s.xml">
+      <configuration name="JustpayDispatcherTest.testWechatNotify" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="117658000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46986607" sideWeight="0.5042644" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31503198" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15736607" sideWeight="0.49573562" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21588486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46986607" sideWeight="0.5042644" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31503198" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955357" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37723213" sideWeight="0.49573562" order="11" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21375267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/configuration/AlipayConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/configuration/dubbo/DubboConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/service/impl/AliNotifyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/src/main/java/com/justpay/service/AliNotifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/service/impl/WechatNotifyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/src/main/java/com/justpay/service/WechatNotifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/util/QRCodeUtil.java" />
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/util/QRCodeUtil.java" />
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/util/BufferedImageLuminanceSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/constant/PayConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="77" lean-forward="false" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/src/main/java/com/justpay/service/WechatpayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/util/ResponseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/service/impl/WechatpayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="59" column="57" lean-forward="false" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/src/main/java/com/justpay/service/AlipayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/service/impl/AlipayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/TempController.java" />
+    <entry file="file://$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/configuration/dubbo/serialization/SerializationOptimizerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar!/org/springframework/web/bind/annotation/ModelAttribute.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar!/org/springframework/web/bind/annotation/MatrixVariable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE.jar!/reactor/core/publisher/Mono.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="991" column="33" lean-forward="false" selection-start-line="991" selection-start-column="33" selection-end-line="991" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/util/QRCodeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/src/main/java/com/justpay/service/WechatQueryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10.jar!/io/swagger/annotations/ResponseHeader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/configuration/Swagger2Configuration.java" />
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-interface/src/main/java/com/justpay/service/AliRefundService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/java/com/justpay/service/impl/AliRefundServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-common/src/main/java/com/justpay/pojo/RequestDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/service/impl/WechatQueryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="35" column="29" lean-forward="false" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/RefundController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="74" column="49" lean-forward="false" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-interface/src/main/java/com/justpay/service/DispatcherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/service/impl/DispatcherServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="87" column="42" lean-forward="false" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-interface/src/main/java/com/justpay/service/WechatRefundService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/java/com/justpay/service/impl/WechatRefundServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE.jar!/reactor/core/publisher/FluxMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/QueryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="62" column="90" lean-forward="false" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/NotifyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="82" column="45" lean-forward="false" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/java/com/justpay/controller/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="77" column="49" lean-forward="false" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/resources/config/alipay.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/resources/config/wechatpay.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-ali/justpay-pay-ali-service/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-pay/justpay-pay-wechat/justpay-pay-wechat-service/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/src/test/java/JustpayDispatcherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-webflux/2.0.0.RELEASE/spring-boot-starter-webflux-2.0.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>justpay-config-pojo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

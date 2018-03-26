@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-dispatcher/justpay-dispatcher-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/justpay-config/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-service-ali/pom.xml" />
+        <option value="$PROJECT_DIR$/justpay-service-wechat/pom.xml" />
+        <option value="$PROJECT_DIR$/justpaydispatcher/pom.xml" />
+        <option value="$PROJECT_DIR$/justpaypay/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
