@@ -43,6 +43,7 @@ justpay
           └── justpay-pay-wechat-service -- 微信服务生产者
 ```
 ####说明
+
 | 项目  | 端口 | 描述 | 依赖
 |---|---|---|---
 |justpay-pay-ali-service|9091|支付宝服务提供者、配置服务消费者|justpay-pay-ali-interface、justpay-config-interface、justpay-common
@@ -77,6 +78,7 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 ###API列表
 ---
 ####参数说明
+
 | 字段名  | 变量名 | 类型 | 示例 | 描述
 |---|---|---|---
 |操作类型|operation|String(20)|PAY_ALIPAY_WAP|用于判断下单、回调、查询、退款
@@ -98,6 +100,7 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 
 ---
 ######下单请求
+
 | 字段名  | 变量名 | 必填 | 可选值/传入值 | 描述
 |---|---|---|---
 |操作类型|operation|是|PAY_AUTO（自动）、PAY_ALIPAY_WAP（支付宝手机网页。常用）、PAY_ALIPAY_PC（支付宝电脑网页）、PAY_ALIPAY_APP（支付宝APP支付，是自己的APP，不是支付宝APP）、PAY_WECHAT_NATIVE（微信扫码。常用）、PAY_WECHAT_JSAPI（微信公众号支付）、PAY_WECHAT_APP（微信公APP支付）、PAY_WECHAT_MWEB（微信H5支付）|支付宝PAY_ALIPAY_WAP可实现手机网页及支付宝支付，微信PAY_WECHAT_NATIVE通过跳转可实现手机网页及微信支付
@@ -114,16 +117,19 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 |同步地址|returnUrl|否|自定义|支付宝支付时的同步地址（支付完成后跳转的页面）
 |设备号|deviceInfo|否|自定义|记录在哪台设备完成支付
 ######回调请求
+
 | 字段名  | 变量名 | 必填 | 可选值/传入值 | 描述
 |---|---|---|---
 |操作类型|operation|是|NOTIFY_ALI（支付宝）、NOTIFY_WECHAT（微信）、NOTIFY_AUTO（自动判断，不推荐）|用于判断进行哪种回调操作
 |回调数据|notifyData|是|微信回调信息直接原格式放入；支付宝为form提交，需转为json再放入|微信/支付宝的回调数据，放这里
 ######查询请求
+
 | 字段名  | 变量名 | 必填 | 可选值/传入值 | 描述
 |---|---|---|---
 |操作类型|operation|是|QUERY_ALI（支付宝）、QUERY_WECHAT（微信）|用于判断进行哪种查询操作
 |订单号|outTradeNo|是|自定义|根据业务逻辑生成的订单号
 ######退款请求
+
 | 字段名  | 变量名 | 必填 | 可选值/传入值 | 描述
 |---|---|---|---
 |操作类型|operation|是|REFUND_ALI（支付宝）、REFUND_WECHAT（微信）|用于判断进行哪种查询操作
@@ -134,6 +140,7 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 
 ---
 ######下单响应
+
 | 字段名  | 变量名 | 必须 | 示例值 | 描述
 |---|---|---|---
 |返回状态码|return_code|是|SUCCESS|SUCCESS/FAIL；SUCCESS则为业务成功
@@ -146,6 +153,7 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 |表单|form|否|html数据|支付宝返回，需要把这段写到页面上
 
 ######回调响应
+
 | 字段名  | 变量名 | 必须 | 示例值 | 描述
 |---|---|---|---
 |返回状态码|return_code|是|SUCCESS|SUCCESS/FAIL；SUCCESS则为回调签名验证成功
@@ -153,6 +161,7 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 |成功|successReturn|否|--支付宝/微信格式不同--|签名验证成功时才有，若逻辑判断通过，可直接返回此内容给平台
 |错误返回格式|failReturn|是|--支付宝/微信格式不同--|无论签名验证成功失败都会有。若验证成功，但前端逻辑判断失败（如金额不对），可返回此内容给平台
 ######查询响应
+
 | 字段名  | 变量名 | 必须 | 示例值 | 描述
 |---|---|---|---
 |返回状态码|return_code|是|SUCCESS|SUCCESS/FAIL；SUCCESS则为查找订单成功
@@ -160,6 +169,7 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 |错误信息描述|err_code_des|否|交易不存在|错误描述，如非空，为错误描述
 |查询数据|queryData|否|平台返回的消息|从平台中查到的数据;属性已经解析出来了（支付状态在tradeState），若要拿到原生请求信息，从xmlString(微信)/body(支付宝)中获取
 ######退款响应
+
 | 字段名  | 变量名 | 必须 | 示例值 | 描述
 |---|---|---|---
 |返回状态码|return_code|是|SUCCESS|SUCCESS/FAIL；SUCCESS则为退款成功
