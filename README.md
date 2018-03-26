@@ -46,8 +46,8 @@ justpay
 
 | 项目  | 端口 | 描述 | 依赖
 |---|---|---|---
-|justpay-pay-ali-service|9091|支付宝服务提供者、配置服务消费者|justpay-pay-ali-interface、justpay-config-interface、justpay-common
-|justpay-pay-wechat-service|9092|微信服务提供者、配置服务消费者|justpay-pay-wechat-interface、justpay-config-interface、justpay-common
+|justpay-pay-ali-service|9091|支付宝服务提供者、配置服务消费者|justpay-pay-ali-interface、justpay-common
+|justpay-pay-wechat-service|9092|微信服务提供者、配置服务消费者|justpay-pay-wechat-interface、justpay-common
 |justpay-dispatcher-service|9093|Justpay服务提供者、支付服务消费者|justpay-dispatcher-interface、justpay-pay-ali-interface、justpay-pay-wechat-interface、justpay-common
 
 
@@ -77,7 +77,7 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 - 也可以通过HTTP请求controller进行测试
 
 
-### API列表
+### API列表(入口:dispatcherService)
 ---
 #### 参数说明
 
