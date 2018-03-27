@@ -70,8 +70,8 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 - 如果都没问题~恭喜你！项目已经完美的启动了！
 
 
-#### 接入
-
+### 接入
+---
 - 项目接入方式有多种
 - Dubbox : 将功能分发层中的接口(DispatcherService)复制到业务逻辑模块，通过Dubbox调用即可  
   ![](https://i.imgur.com/R5DZIro.png)
@@ -79,7 +79,7 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
   ![](https://i.imgur.com/zIDQzYJ.png)
 - 其它RPC方式 : Thrift、GRPC等，只需对DispatcherService进行加强即可
 
-#### 测试用例(针对:DispatcherService进行测试)
+### 测试用例(针对:DispatcherService进行测试)
 ---
 - 在justpay-dispatcher-service的test里面有所有操作的测试用例，可以直接设置参数进行测试![](https://i.imgur.com/qRSfRJa.png)
 - 也可以通过HTTP请求controller进行测试
