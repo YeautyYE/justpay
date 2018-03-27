@@ -12,9 +12,9 @@
 
 
 
-### 项目介绍
+## 项目介绍
 ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/downloads-3M-brightgreen.svg) ![](https://img.shields.io/badge/jdk-1.8-blue.svg) ![](https://img.shields.io/badge/springboot-2.0.0-blue.svg)  ![](https://img.shields.io/badge/springwebflux-2.0.0-blue.svg) ![](https://img.shields.io/badge/maven-3.3.9-blue.svg)  ![](https://img.shields.io/badge/Dubbox-2.8.4-blue.svg) ![](https://img.shields.io/badge/zookeeper-3.4.10-blue.svg) ![](https://img.shields.io/badge/IDEA-2017.2.3-blue.svg)
----
+
 - `Justpay` 使用Java开发，使用spring-boot2.0.0、dubbox实现SOA的分布式架构
 - 只完成与支付相关的功能（支付、回调、查询、退款），没有其它业务逻辑相关模块，可直接接入生产环境
 - 不同功能拆分成不同的服务，使得不同的支付服务更容易根据并发进行集群（可插拔）
@@ -23,8 +23,8 @@
 - Justpay架构图![](https://i.imgur.com/frTlp7H.png)
 - Justpay接入到原系统中的架构位置![](https://i.imgur.com/daz7TbV.png)
 
-### 项目结构
----
+## 项目结构
+
 ```
 justpay
 ├── justpay-common -- 公共模块
@@ -51,13 +51,12 @@ justpay
 |justpay-dispatcher-service|9093|Justpay服务提供者、支付服务消费者|justpay-dispatcher-interface、justpay-pay-ali-interface、justpay-pay-wechat-interface、justpay-common
 
 
-项目启动顺序：
-```
-justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-service
-```
+- 项目启动顺序：
+  - <kbd>justpay-pay-ali-service</kbd>、<kbd>justpay-pay-wechat-service</kbd> > <kbd>justpay-dispatcher-service</kbd>
 
-### 快速启动
----
+
+## 快速启动
+
 1. 修改配置服务中的支付宝/微信配置文件  
 ![](https://i.imgur.com/7TqAARJ.png)![](https://i.imgur.com/5iD3EEK.png)
 2. 修改启动项目中的zookeeper地址（这里使用的是dev配置，对于配置的切换请参考spring-boot文档）  
@@ -70,23 +69,24 @@ justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-servic
 - 如果都没问题~恭喜你！项目已经完美的启动了！
 
 
-### 接入
----
-- 项目接入方式有多种
+## 接入
+
+> 项目接入方式有多种
+
 - Dubbox : 将功能分发层中的接口(DispatcherService)复制到业务逻辑模块，通过Dubbox调用即可  
   ![](https://i.imgur.com/R5DZIro.png)
 - HTTP : 将请求发送到分发层的controller中（PayController中的build方法仅将参数适配到DispatcherService中，NotifyController简单适配了回调、QueryController简单适配了查询、RefundController简单适配了退款；PayController中还包含spring-webflux写出支付宝支付页面、微信支付二维码的展示代码）
   ![](https://i.imgur.com/zIDQzYJ.png)
 - 其它RPC方式 : Thrift、GRPC等，只需对DispatcherService进行加强即可
 
-### 测试用例(针对:DispatcherService进行测试)
----
+## 测试用例(针对:DispatcherService进行测试)
+
 - 在justpay-dispatcher-service的test里面有所有操作的测试用例，可以直接设置参数进行测试![](https://i.imgur.com/qRSfRJa.png)
 - 也可以通过HTTP请求controller进行测试
 
 
-### API列表(入口:DispatcherService)
----
+## API列表(入口:DispatcherService)
+
 #### 参数说明
 
 | 字段名  | 变量名 | 类型 | 示例 | 描述
