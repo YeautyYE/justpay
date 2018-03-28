@@ -54,6 +54,12 @@ justpay
 - 项目启动顺序：
   - <kbd>justpay-pay-ali-service</kbd>、<kbd>justpay-pay-wechat-service</kbd> > <kbd>justpay-dispatcher-service</kbd>
 
+#### Dubbox
+- 进入https://github.com/dangdangdotcom/dubbox ，将源码下载（当当网没有提交上maven仓库，所以不能直接从中央仓库依赖）；打包进本地仓库
+```
+mvn clean install -DskipTests
+```
+
 
 ## 快速启动
 
