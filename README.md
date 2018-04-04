@@ -114,7 +114,7 @@ mvn clean install -DskipTests
 |退款单号|outRefundNo|String(32)|TC20160427210604000490|同一退款单号多次请求只退一笔
 |退款金额|refundAmount|String(10)|100|单位：分，不能超过2147483647
 
----
+
 ###### 下单请求
 
 | 字段名  | 变量名 | 必填 | 可选值/传入值 | 描述
@@ -157,7 +157,6 @@ mvn clean install -DskipTests
 |退款单号|outRefundNo|REFUND_WECHAT时必填|自定义|微信退款时需要为每一笔退款生成一个退款单号
 |金额|amount|REFUND_WECHAT时必填|自定义|outTradeNo订单的总金额
 
----
 
 ###### 下单响应
 
