@@ -67,7 +67,7 @@ mvn clean install -DskipTests
 ![](https://i.imgur.com/7TqAARJ.png)![](https://i.imgur.com/5iD3EEK.png)
 2. 修改启动项目中的zookeeper地址（这里使用的是dev配置，对于配置的切换请参考spring-boot文档）  
 ![](https://i.imgur.com/GBiDaiZ.png)![](https://i.imgur.com/oRchUgF.png)![](https://i.imgur.com/C0IQ5ja.png)
-3. 启动项目（justpay-pay-ali-service、justpay-pay-wechat-service > justpay-dispatcher-service；推荐使用debug启动）  
+3. 启动项目（ <kbd>justpay-pay-ali-service</kbd>、<kbd>justpay-pay-wechat-service</kbd> > <kbd>justpay-dispatcher-service</kbd>；推荐使用debug启动）  
 ![](https://i.imgur.com/2Y9mEt9.png)![](https://i.imgur.com/esHvUBV.png)![](https://i.imgur.com/hNRiDQd.png)
 4. 测试项目是否正常
 - 在浏览器输入 http://localhost:9093/pay/wechat_native/qrcode/1/微信测试商品/order_no_001 查看是否出现二维码，用微信扫一扫，是否金额为0.01
